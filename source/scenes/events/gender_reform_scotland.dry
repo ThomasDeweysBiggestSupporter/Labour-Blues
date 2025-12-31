@@ -1,0 +1,25 @@
+title: Scottish Gender Recognition Reform 
+subtitle: A vote is to be held on reform of the process of changing legal gender  
+tags: event
+max-visits: 1
+view-if: year = 1928 and month == 2
+new-page: true
+
+= Gender Recognition Reform (Scotland) Bill
+
+The Scottish Parliament is to debate an <span style="color: #cbc48a;">**SNP**</span> bill to simplify the process of changing legal gender for transgender people. Despite being tabled by the SNP, the party is likely to face some resistance on the issue by its conservative wing, while the <span style="color: #3072b5;">Scottish Tories</span> are outright hostile to the proposal.
+
+We could support the bill. However the matter of transgender rights is becoming increasingly controversial both in Scotland and the rest of Britain.
+
+- @pro_s_gender_reform: The current process is too bureaucratic—support the bill.
+- @anti_s_gender_reform: The proposal is too controversial for our support.
+
+@pro_s_gender_reform
+#on-arrival: workers_spd += 4*(1-dissent); unemployed_spd += 2*(1-dissent); panzerkreuzer_campaign = 1
+
+The bill passes with our support! The <span style="color: #cbc48a;">SNP</span> faced its biggest rebelion since it took government and the <span style="color: #3072b5;">Tories</span> fiercely opposed the bill, While <span style="color: #50bd47;">Scottish Labour</span> saw only a minor revolt for our support of the bill. Our image has improved with the transgender community and our left flank.
+
+@anti_s_gender_reform
+#on-arrival: workers_kpd += 2; unemployed_kpd += 2; labor_dissent += 5; left_dissent += 5; kpd_relation -= 6; panzerkreuzer_campaign = 0
+
+Labour MSPs are split on the issue, with most abstaining. Only a few of our MSPs either vote for or against the motion. Despite the <span style="color: #cbc48a;">SNP</span> facing a rebelion and <span style="color: #3072b5;">Tory</span> opposition, the bill passes without our support. Only the <span style="color: #50bd47;">Scottish Greens</span> and <span style:"color: #f2c514;">Lib Dems</span> were united in support, and our left flank consider us to have ingored transgender people.  
