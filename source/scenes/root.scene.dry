@@ -6,7 +6,8 @@ go-to: post_event if started = 1; start_menu if started = 0
 new-page: true
 go-to: start_menu_2
 
-= Social Democracy: An Alternate History
+= Labour Blues
+== A Red Autumn Social Democracy game
 
 @start_menu_2
 
